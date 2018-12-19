@@ -1,3 +1,4 @@
 first file in screeen
 
 error
+delete error
